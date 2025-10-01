@@ -105,4 +105,3 @@ For issues, open a GitHub issue or contact [chamuditha.hde@gmail.com].
 
 --- 
 
-This README serves as the user manual. Feel free to customize with screenshots (add via GitHub Markdown).

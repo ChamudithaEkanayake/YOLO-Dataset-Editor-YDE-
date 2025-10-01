@@ -5,6 +5,8 @@ YOLO Dataset Editor is a standalone Windows application for editing and annotati
 
 This tool is ideal for computer vision tasks, such as preparing datasets for object detection models like YOLO. It supports loading previous work, navigating through images, and tracking progress with checked images.
 
+*Developed by Chamuditha Ekanayake | GitHub: [ChamudithaEkanayake](https://github.com/ChamudithaEkanayake) | LinkedIn: [Chamuditha Ekanayake](https://www.linkedin.com/in/chamuditha-ekanayake-8b37602b6/)*
+
 ## Features
 - **Dataset Upload**: Upload a ZIP file containing `images/` and `labels/` folders.
 - **Class Configuration**: Define class names dynamically, mapped to IDs starting from 0.
@@ -25,8 +27,8 @@ This tool is ideal for computer vision tasks, such as preparing datasets for obj
 - Disk space for datasets (stored in a `storage/` folder next to the .exe).
 
 ## Installation
-1. Download the `YOLO Dataset Editor.exe` from the [GitHub Releases][(https://github.com/yourusername/YOLO-Dataset-Editor/releases](https://github.com/ChamudithaEkanayake/YOLO-Dataset-Editor-YDE-/blob/main/YOLO%20Dataset%20Editor.exe](https://github.com/ChamudithaEkanayake/YOLO-Dataset-Editor-YDE-/blob/main/YOLO%20Dataset%20Editor.exe)) page.
-2. Place the .exe in a folder where you have write permissions (it creates a `storage/` subfolder for data).
+1. Download the `YOLO Dataset Editor.exe` from the [GitHub Releases](https://github.com/ChamudithaEkanayake/YOLO-Dataset-Editor-YDE-.git) page.
+2. Place the `.exe` in a folder where you have write permissions (it creates a `storage/` subfolder for data).
 3. Double-click the .exe to run. A console window will open, showing the server starting.
 4. Open a web browser and go to `http://127.0.0.1:5000` (or the address shown in the console).
 
@@ -35,7 +37,7 @@ This tool is ideal for computer vision tasks, such as preparing datasets for obj
 ## Usage Guide
 
 ### 1. Starting the App
-- Run the .exe.
+- Run the `YOLO Dataset Editor.exe`
 - In your browser, you'll see the **Project Choice** screen:
   - **Load Current Working Dataset**: Resumes from where you left off (if a previous dataset exists). Loads the last viewed image and preserves checked status.
   - **Create New Project**: Deletes any existing data and starts fresh.
@@ -94,7 +96,7 @@ This tool is ideal for computer vision tasks, such as preparing datasets for obj
 
 ## Development
 - Built with Flask, Pillow, and JavaScript.
-- Source code available on GitHub.
+- Source code available on GitHub **(Permission Required)**.
 - To build from source: `pip install -r requirements.txt`, then `python app.py`.
 
 ## License

@@ -25,7 +25,7 @@ This tool is ideal for computer vision tasks, such as preparing datasets for obj
 - Disk space for datasets (stored in a `storage/` folder next to the .exe).
 
 ## Installation
-1. Download the `YOLO Dataset Editor.exe` from the [GitHub Releases](https://github.com/yourusername/YOLO-Dataset-Editor/releases](https://github.com/ChamudithaEkanayake/YOLO-Dataset-Editor-YDE-/blob/main/YOLO%20Dataset%20Editor.exe) page.
+1. Download the `YOLO Dataset Editor.exe` from the [GitHub Releases][(https://github.com/yourusername/YOLO-Dataset-Editor/releases](https://github.com/ChamudithaEkanayake/YOLO-Dataset-Editor-YDE-/blob/main/YOLO%20Dataset%20Editor.exe](https://github.com/ChamudithaEkanayake/YOLO-Dataset-Editor-YDE-/blob/main/YOLO%20Dataset%20Editor.exe)) page.
 2. Place the .exe in a folder where you have write permissions (it creates a `storage/` subfolder for data).
 3. Double-click the .exe to run. A console window will open, showing the server starting.
 4. Open a web browser and go to `http://127.0.0.1:5000` (or the address shown in the console).
